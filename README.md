@@ -8,4 +8,4 @@ Full report is available [here](https://kmutnbacth.sharepoint.com/:b:/s/Circuits
 - Collaborate with partners to check and fix the bug.
 
 ## Lesson learnt
-- Unit testing before combining files and component unless you are certainly sure that it will work as intended 🗿
+- Unit testing before combining files and component unless you are certainly sure that it will work as intended.
